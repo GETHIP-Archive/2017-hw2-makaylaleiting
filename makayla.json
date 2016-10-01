@@ -1,0 +1,13 @@
+{
+  "firstName":"Makayla",
+  "lastName":"Leiting",
+  "age":16,
+  "picture":"http://www.clipartkid.com/images/0/smiley-face-clip-art-dr-odd-uWlQ3w-clipart.jpg",
+  "topFive": [
+      {"top": "Responsibility"},
+      {"top": "Restorative"},
+      {"top": "Activator"},
+      {"top": "Communication"},
+      {"top": "Belief"}
+  ]
+}
